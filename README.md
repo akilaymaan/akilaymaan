@@ -11,6 +11,8 @@
 
 </div>
 
+---
+
 ## `~/about`
 
 Final-year **B.Tech student in Artificial Intelligence & Machine Learning** at Srinivas University, Kerala. I build practical AI systems — LLM applications, agents and intelligent pipelines — and ship them end to end, from model to API to UI.
@@ -19,13 +21,15 @@ Final-year **B.Tech student in Artificial Intelligence & Machine Learning** at S
 - `interests` — LLM apps · RAG · agentic systems · local models & deployment · computer vision · developer tools
 - `recent` — **Nebula**, my zero-knowledge verifiable-compute layer, won the Stellar BuildStation hackathon (Kozhikode)
 
+---
+
 ## `~/featured-builds`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**[Deadlock Zero](https://github.com/akilaymaan/deadlock-zero)**
+**Deadlock Zero** · [GitHub ↗](https://github.com/akilaymaan/deadlock-zero)
 
 Lock-trace forensics for concurrent systems: wait-for graphs, Tarjan SCC + Johnson-cycle deadlock detection, vector-clock data-race detection, starvation checks, remediation diffs, and a deterministic stress-test simulator.
 
@@ -34,7 +38,7 @@ Lock-trace forensics for concurrent systems: wait-for graphs, Tarjan SCC + Johns
 </td>
 <td width="50%" valign="top">
 
-**[CrowdSentry](https://github.com/akilaymaan/crowdsentry-vision)**
+**CrowdSentry** · [GitHub ↗](https://github.com/akilaymaan/crowdsentry-vision)
 
 Real-time crowd-risk monitoring: YOLOv8 person detection, ByteTrack tracking, spatio-temporal density and flow features, XGBoost risk scoring, and a live WebSocket operations dashboard.
 
@@ -47,7 +51,7 @@ Real-time crowd-risk monitoring: YOLOv8 person detection, ByteTrack tracking, sp
 <tr>
 <td width="50%" valign="top">
 
-**[Nebula](https://github.com/akilaymaan/nebula_stellar)** · [Live ↗](https://nebula-stellar-nine.vercel.app)
+**Nebula** · [GitHub ↗](https://github.com/akilaymaan/nebula_stellar) · [Live Demo ↗](https://nebula-stellar-nine.vercel.app)
 
 Zero-knowledge verifiable-compute layer for Stellar: heavy Rust workloads execute off-chain in a RISC Zero zkVM, and proof digests are verified on-chain by a Soroban contract (KYC credentials, bridge header relay).
 
@@ -58,7 +62,7 @@ Zero-knowledge verifiable-compute layer for Stellar: heavy Rust workloads execut
 </td>
 <td width="50%" valign="top">
 
-**ObsiLoom** · [akilaymaan.me](https://akilaymaan.me)
+**ObsiLoom** · [Portfolio ↗](https://akilaymaan.me)
 
 My AI automation agency — custom agents and intelligent workflows that take repeated business processes off people's desks: lead qualification, sales ops, customer support and multi-step internal automation.
 
@@ -68,9 +72,11 @@ My AI automation agency — custom agents and intelligent workflows that take re
 </tr>
 </table>
 
-**Also shipped:** [HemoLink](https://github.com/akilaymaan/HemoLink) — AI-assisted blood-donor matching · [DarkTalent](https://github.com/akilaymaan/darktalent) — privacy-preserving credentials on Midnight · [ColdChain Pay](https://github.com/akilaymaan/coldchain-pay) — IoT-driven Stellar payments · [ChronoLegacy](https://github.com/akilaymaan/ChronoLegacy) — Soroban dead-man's-switch vault · [DevTrack](https://github.com/akilaymaan/DevTrack) — multi-source dev-job aggregator
+**More on GitHub:** [HemoLink](https://github.com/akilaymaan/HemoLink) — AI-assisted blood-donor matching · [DarkTalent](https://github.com/akilaymaan/darktalent) — privacy-preserving credentials on Midnight · [ColdChain Pay](https://github.com/akilaymaan/coldchain-pay) — IoT-driven Stellar payments · [ChronoLegacy](https://github.com/akilaymaan/ChronoLegacy) — Soroban dead-man's-switch vault · [DevTrack](https://github.com/akilaymaan/DevTrack) — multi-source dev-job aggregator
 
 <sub>In the lab: **EVRA** — an agentic-workflow product, currently in development and not yet public.</sub>
+
+---
 
 ## `~/stack`
 
@@ -125,6 +131,8 @@ My AI automation agency — custom agents and intelligent workflows that take re
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0A0F1E?style=flat-square&logo=githubactions&logoColor=00D9A6)
 ![Linux](https://img.shields.io/badge/Linux%20%2F%20Bash-0A0F1E?style=flat-square&logo=linux&logoColor=00D9A6)
 
+---
+
 ## `~/stats`
 
 <div align="center">
@@ -133,6 +141,8 @@ My AI automation agency — custom agents and intelligent workflows that take re
 <br/>
 <img height="165" alt="Contribution streak" src="https://streak-stats.demolab.com?user=akilaymaan&hide_border=true&background=0A0F1E&ring=00D9A6&fire=00D9A6&currStreakLabel=00D9A6&sideNums=9BA7B4&currStreakNum=F3F7F6&sideLabels=9BA7B4&dates=6B7684"/>
 </div>
+
+---
 
 ## `~/connect`
 
