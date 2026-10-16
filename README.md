@@ -12,6 +12,16 @@ I build practical AI systems — LLM applications, agents and intelligent pipeli
 
 ---
 
+### Achievements
+
+**Web3 Hackathon Winner — Stellar BuildStation, Kozhikode**
+
+Won the Stellar BuildStation Web3 hackathon with [Nebula](https://github.com/akilaymaan/nebula_stellar), a verifiable-compute layer for Stellar that executes computationally intensive workloads off-chain and uses zero-knowledge proofs for on-chain verification through Soroban smart contracts.
+
+`Rust` `RISC Zero zkVM` `Soroban` `Stellar` `Axum` `PostgreSQL` · [Live ↗](https://nebula-stellar-nine.vercel.app)
+
+---
+
 ### Now
 
 - **Founder & engineer at ObsiLoom** — an AI automation agency building custom agents and workflow automation for businesses (LLM agents, RAG, MCP, n8n, FastAPI, GCP).
@@ -26,9 +36,7 @@ I build practical AI systems — LLM applications, agents and intelligent pipeli
 
 **[CrowdSentry](https://github.com/akilaymaan/crowdsentry-vision)** — Real-time crowd-risk monitoring: YOLOv8 person detection, ByteTrack tracking, spatio-temporal density/flow features and an XGBoost risk scorer, served by a FastAPI + MongoDB backend and a live WebSocket dashboard. The risk model is trained on simulated pedestrian data, so treat it as a congestion-risk proxy rather than a validated safety system. `Python` `FastAPI` `YOLOv8` `XGBoost` `React`
 
-**[Nebula](https://github.com/akilaymaan/nebula_stellar)** · [Live ↗](https://nebula-stellar-nine.vercel.app) — Zero-knowledge verifiable-compute layer for Stellar. Heavy Rust workloads run off-chain in a RISC Zero zkVM (mock prover in dev) and proof digests are verified on-chain by a Soroban contract — KYC credentials, bridge header relay. `Rust` `Axum` `RISC Zero` `Soroban` `PostgreSQL`
-
-Winner — Stellar BuildStation hackathon, Kozhikode.
+**[Nebula](https://github.com/akilaymaan/nebula_stellar)** — ZK verifiable-compute layer for Stellar: off-chain Rust workloads in a RISC Zero zkVM (mock prover in dev), proofs verified on-chain by a Soroban contract. Stellar BuildStation winner — see [Achievements](#achievements). `Rust` `Axum` `Soroban`
 
 **[DarkTalent](https://github.com/akilaymaan/darktalent)** — Privacy-preserving talent credentials on Midnight Network: prove a credential meets a requirement without revealing the credential itself. `TypeScript` `Midnight` `ZK proofs`
 
