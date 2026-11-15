@@ -33,9 +33,15 @@ I build intelligent AI systems, autonomous agents, and verifiable Web3 infrastru
 
 **[Nebula](https://github.com/akilaymaan/nebula_stellar)** — Verifiable compute layer for Stellar. Heavy workloads run off-chain in a RISC Zero zkVM, and their proofs are verified on-chain by a Soroban contract. I built the off-chain compute pipeline, the proof workflows and prover/verifier interfaces, Soroban verification, persistent job and event records, and live job-status updates. Stellar BuildStation winner. `Rust` `Axum` `PostgreSQL` `RISC Zero` `Soroban` · [Live ↗](https://nebula-stellar-nine.vercel.app)
 
+<a href="https://nebula-stellar-nine.vercel.app"><img src="assets/nebula.png" alt="Nebula front page: verifiable compute that expands what Soroban can do" width="100%"></a>
+
 **[Dabba](https://github.com/akilaymaan/Tiffin-Fi)** — Stock-basket trading protocol built at ETHGlobal Mumbai with [@fahmmin](https://github.com/fahmmin). One token holds NVIDIA, Apple, Microsoft, and USDC; a single Uniswap v4 hook runs every pair against one shared reserve, with dynamic swap fees and Chainlink CRE price and market-hours data — so trading fees stay in the basket. Arc Special Mention. `Solidity` `Uniswap v4` `Chainlink CRE` `Arc` · [Live ↗](https://dabbafi.vercel.app)
 
+<a href="https://dabbafi.vercel.app"><img src="assets/dabba.png" alt="Dabba front page: what if your index fund paid you instead of charging you?" width="100%"></a>
+
 **[OpenBucket](https://github.com/akilaymaan/open-bucket)** — Automated DeFi loan-exit protocol on Monad, built with [@fahmmin](https://github.com/fahmmin) for the Monad Blitz Hackathon (Monad Foundation) during Devcon Mumbai. Your Aave loan and vault deposit live in one user-owned contract with health-factor and deadline exit rules; a keeper watches every Monad block and exits for you — it can repay and return collateral, but never redirect funds. Tested with unit, Aave V3 mainnet-fork, keeper, and MetaMask end-to-end suites. `Smart Contracts` `Aave V3` `Monad` `Automated Keepers` · [Live ↗](https://openbucketmonad.vercel.app)
+
+<a href="https://openbucketmonad.vercel.app"><img src="assets/openbucket.png" alt="Open Bucket front page: what if your loan paid itself back before you lost your ETH?" width="100%"></a>
 
 ---
 
