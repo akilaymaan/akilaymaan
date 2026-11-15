@@ -25,7 +25,7 @@ I build intelligent AI systems, autonomous agents, and verifiable Web3 infrastru
 - **Ambassador, Stellar Blockchain** — promoting the Stellar ecosystem, its developer tools, and opportunities to students, builders, and Web3 communities.
 - **Co-Founder & AI Engineer at [EVRA](https://evra.world)** — an AI-native creator–brand partnership platform: AI-agent workflows for creator discovery, brand matching, deal coordination, and human-approved negotiation.
 - **Founder & engineer at ObsiLoom** — an AI automation agency building custom agents and workflow automation for businesses.
-- **Shipping open-source tools** — most recently [Deadlock Zero](https://github.com/akilaymaan/deadlock-zero) and [CrowdSentry](https://github.com/akilaymaan/crowdsentry-vision).
+- **Shipping open-source tools** — most recently [Volo](https://github.com/akilaymaan/volo) and [Deadlock Zero](https://github.com/akilaymaan/deadlock-zero).
 
 ---
 
@@ -46,6 +46,8 @@ I build intelligent AI systems, autonomous agents, and verifiable Web3 infrastru
 ---
 
 ### More projects
+
+**[Volo](https://github.com/akilaymaan/volo)** — AI voice interviews in English and ten Indian languages, built with [@fahmmin](https://github.com/fahmmin). Paste a job description and Claude drafts the questions; each candidate has a live voice interview — Sarvam speech-to-text, Claude deciding whether to follow up, move on, or wrap up, Sarvam text-to-speech for the reply — and recruiters get a scored report with the recording, transcript, and audio-linked evidence. Tested with Vitest, Playwright, and CI on GitHub Actions. `Claude API` `Sarvam AI` `Next.js` `TypeScript` `PostgreSQL` · [Live ↗](https://volo-delta.vercel.app)
 
 **[Deadlock Zero](https://github.com/akilaymaan/deadlock-zero)** — Lock-trace forensics for concurrent programs. Builds the wait-for graph, finds deadlock cycles (Tarjan SCC + Johnson's elementary cycles) and unprotected data races via vector clocks, then generates remediation guidance — canonical lock order, diffs, incident checklist — and replays the trace through a deterministic stress-test simulator. `TypeScript` `Express` `React`
 
